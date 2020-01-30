@@ -9,3 +9,6 @@ Option Explicit
 
 [Excel VBA Tutorial for Beginners: Learn in 3 Days](https://www.guru99.com/vba-tutorial.html)
  
+[VBA for Microsoft Office Excel 2007](http://www.functionx.com/vbaexcel/index.htm)
+
+[VBA For Microsoft Excel](http://www.functionx.com/vbaexcel2003/index.htm)
