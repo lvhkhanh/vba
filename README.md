@@ -14,6 +14,9 @@ Set object references to nothing
 
 ## Array vs Collection
 
+## References
+Microsoft VBScript Regular Expressions
+
 [VBA](https://www.excel-easy.com/vba.html)
 
 [Getting started with VBA in Office](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
