@@ -1,6 +1,10 @@
 # vba
 Option Explicit
 
+## Property
+### Get
+### Let
+
 [VBA](https://www.excel-easy.com/vba.html)
 
 [Getting started with VBA in Office](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
