@@ -6,6 +6,8 @@ Option Explicit
 ### Let (primitives and objects)
 ### Set (objects)
 
+## Array vs Collection
+
 [VBA](https://www.excel-easy.com/vba.html)
 
 [Getting started with VBA in Office](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
