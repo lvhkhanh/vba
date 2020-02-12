@@ -6,6 +6,8 @@ Option Explicit
 ### Let (primitives and objects)
 ### Set (objects)
 
+## Class_Initialize
+
 ## Array vs Collection
 
 [VBA](https://www.excel-easy.com/vba.html)
