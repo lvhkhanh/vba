@@ -3,7 +3,8 @@ Option Explicit
 
 ## Property
 ### Get
-### Let
+### Let (primitives and objects)
+### Set (objects)
 
 [VBA](https://www.excel-easy.com/vba.html)
 
