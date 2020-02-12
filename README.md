@@ -7,6 +7,10 @@ Option Explicit
 ### Set (objects)
 
 ## Class_Initialize
+Set initial values
+
+## Class_Terminate
+Set object references to nothing
 
 ## Array vs Collection
 
