@@ -28,3 +28,8 @@ Microsoft VBScript Regular Expressions
 [VBA for Microsoft Office Excel 2007](http://www.functionx.com/vbaexcel/index.htm)
 
 [VBA For Microsoft Excel](http://www.functionx.com/vbaexcel2003/index.htm)
+
+## Samples
+### Unicode
+Add reference Microsoft Scripting Runtime
+https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/opentextfile-method
