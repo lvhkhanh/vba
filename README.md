@@ -33,3 +33,6 @@ Microsoft VBScript Regular Expressions
 ### Unicode
 Add reference Microsoft Scripting Runtime
 https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/opentextfile-method
+
+## Links
+### https://www.w3schools.com/xml/xml_services.asp
